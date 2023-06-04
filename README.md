@@ -1,9 +1,9 @@
 # Página de links dos Módulos PI1 - António Solipa
 
-![Imagem de resultado do projeto](./assets/Links.png)
+![Imagem de resultado do projeto](./Links-Módulos-PI1/assets/Links.png)
 <br>
 
-> 🚀 <a href="https://pagina-de-links-dos-modulos-pi-1.vercel.app/">Acesse aqui</a>
+> 🚀 <a href="https://links-modulos-pi-1.vercel.app/">Acesse aqui</a>
 
 ## 💻 Sobre
 
