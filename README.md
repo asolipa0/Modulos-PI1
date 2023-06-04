@@ -3,7 +3,7 @@
 ![Imagem de resultado do projeto](./Links-Módulos-PI1/assets/Links.png)
 <br>
 
-> 🚀 <a href="https://links-modulos-pi-1.vercel.app/">Acesse aqui</a>
+> 🚀 <a href="https://modulos-pi-1.vercel.app/">Acesse aqui</a>
 
 ## 💻 Sobre
 
