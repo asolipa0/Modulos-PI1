@@ -3,8 +3,6 @@
 ![Imagem de resultado do projeto](./Links-Módulos-PI1/assets/Links.png)
 <br>
 
-> 🚀 <a href="https://modulos-pi-1.vercel.app/">Acesse aqui</a>
-
 ## 💻 Sobre
 
 Página de links, na propósta de ser usada para cosulta de modulos, feita para dilvulgar os modulos realizados pelo aluno <a href="https://github.com/asolipa0">António Solipa</a>, atraves do conteudo apredido na Escola Profisional do Fundão.
